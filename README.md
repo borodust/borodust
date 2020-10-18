@@ -14,4 +14,5 @@
 
 ## Plans
 * Combine `SDL`, `Filament`, `PhysX` and `Skia` into a tightly coupled, mostly
-  foreign, but mobile-capable CL framework for an upcoming game
+  foreign, but mobile-capable CL
+  [framework](https://github.com/borodust/alien-works) for an upcoming game
