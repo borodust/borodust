@@ -1,15 +1,16 @@
 ## What's happening
 
 ### alien-works
-* Game Foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
-* Android [port](https://github.com/borodust/alien-works-android-runtime) for it
-* Uses a lot of C and C++ libraries which is a perfect ground to also polish
-  `:claw`
+* Game foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
+* All required C and C++ foreign libraries are now integrated into `:alien-works`
+* Next step is making an actual but smol game to smoke out obvious quirks and
+  have a better idea how convenient and lispy API could look like without
+  sacrificing any performance
 
 ### claw
-* C++ support polishing
+* More C++ libraries wrapped - more edge-cases discovered, but autowrapping is more or less solid now
+  * Many C and C++ libraries were wrapped (even including C++ [enterprise solutions](https://github.com/borodust/cl-dcmtk))
+* Preparing for public beta release
 
 ### cl-bodge and trivial-gamekit
-* On hold for now: heavy focus is on `:claw` C++ support
-* Once initial C++ work on `:claw` is mainlined, I'm going to try to port
-  `cl-bodge`/`trivial-gamekit` onto Android with `alien-works`
+* On hold for now: heavy focus is on `:claw` C++ support and `:alien-works` prototyping
