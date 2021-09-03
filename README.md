@@ -6,6 +6,7 @@
 * Next step is making an actual but smol game to smoke out obvious quirks and
   have a better idea how convenient and lispy API could look like without
   sacrificing any performance
+  * And for that I need solid application [delivery mechanism](https://github.com/borodust/alien-works-delivery)
 
 ### claw
 * More C++ libraries wrapped - more edge-cases discovered, but autowrapping is more or less solid now
