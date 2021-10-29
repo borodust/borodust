@@ -1,9 +1,7 @@
 ## What's happening
 
 ### notalone: thriced
-* [LGJ](https://itch.io/jam/autumn-lisp-game-jam-2021)
-  [game](https://github.com/borodust/notalone-thriced) to battle-test
-  `alien-works`
+* Android build for `alien-works`-based [game](https://github.com/borodust/notalone-thriced)
 
 ### alien-works
 * Game foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
