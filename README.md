@@ -5,6 +5,7 @@
 
 ### alien-works
 * Game foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
+* Very exciting super secret new development based on `alien-works`. Reveal coming late Q1 2022.
 
 ### claw
 * Preparing for public beta release
