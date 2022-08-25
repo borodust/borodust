@@ -1,14 +1,14 @@
 ## What's happening
 
-### notalone: thriced
-* Android build for `alien-works`-based [game](https://github.com/borodust/notalone-thriced)
+### ???
+* Very exciting super secret new development based on `alien-works`. Reveal coming soon!
 
 ### alien-works
 * Game foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
-* Very exciting super secret new development based on `alien-works`. Reveal coming late Q1 2022.
+* Now with Varjo support!
 
 ### claw
 * Preparing for public beta release
 
 ### cl-bodge and trivial-gamekit
-* On hold for now: heavy focus is on `:claw` C++ support and `:alien-works` prototyping
+* In maintenance mode - all development time is devoted to `alien-works` and _the_ secret project.
