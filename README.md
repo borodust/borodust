@@ -1,7 +1,7 @@
 ## What's happening
 
 ### ???
-* Very exciting super secret new development based on `alien-works`. Reveal coming soon!
+* Very exciting super secret new development based on `alien-works`. Reveal is coming not as soon as I would like.
 
 ### alien-works
 * Game foundation [framework](https://github.com/borodust/alien-works) for Common Lisp
